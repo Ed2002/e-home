@@ -1,1 +1,1 @@
-# e-home
+# E-home
